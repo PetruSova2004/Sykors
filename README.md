@@ -4,7 +4,7 @@ This project is a test assessment. It is made with Laravel and Laradock.
 
 ## Installing
 
-Make sure you have PHP, Docker and Composer installed globally on your computer.
+Make sure you have PHP, Docker, npm and Composer installed globally on your computer.
 
 1. Clone the repo and enter the project folder:
     ```bash
